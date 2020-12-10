@@ -6,6 +6,10 @@ Also, we hope these data could benefit other tasks like risk detection, scene ca
 
 This dataset is based on the [Nuscenes dataset](https://www.nuscenes.org/) and [CARLA](https://carla.org/)
 
+Paper on arXiv: [paper](https://arxiv.org/abs/2011.13588)
+
+Video available on YouTube [video](https://www.youtube.com/watch?v=W7qllZBba_Y)
+
 ----------------
 
 ## Overview
@@ -93,7 +97,14 @@ Tasklist:
 
 We would be very happy if this dataset could benefit your research. And it would be nice to cite my paper:
 
-    TODO: need endorced by supervisor
+```
+@article{tian2020road,
+  title={Road Scene Graph: A Semantic Graph-Based Scene Representation Dataset for Intelligent Vehicles},
+  author={Tian, Yafu and Carballo, Alexander and Li, Ruifeng and Takeda, Kazuya},
+  journal={arXiv preprint arXiv:2011.13588},
+  year={2020}
+}
+```
 
 Also, as our dataset was based on nuScenes dataset and CARLA, please also reference their papers:
 
